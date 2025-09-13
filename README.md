@@ -20,8 +20,7 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 ## 🔗 Find me
 
 - GitHub: **[@milutin2002](https://github.com/milutin2002)**
-- (Optional) LinkedIn: *add your link here*
-- (Optional) Email: *name [at] domain*
+
 
 ---
 
