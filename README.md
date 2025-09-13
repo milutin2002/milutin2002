@@ -6,14 +6,7 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 - 🎯 **Next**: internship‑level readiness, LLVM passes, and AI/ML and neural networks.
 - 🧪 **Lab**: Raspberry Pi security camera + Android push pipeline, Pico + SPI camera, face recognition tools.
 - 🐧 **OS**: Arch / Manjaro / Kali • 💬 **Languages**  
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
 
 ---
 
@@ -31,7 +24,6 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)  
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -86,7 +78,7 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 
 ### 4) Heap Memory Manager (Custom Allocator)
 
-**Repo**: *to be published / private repo link*
+**Repo** [HeapMemory](https://github.com/milutin2002/HeapMemory.git) 
 
 - Implementation of a **custom heap memory manager** in C/C++.
 - Focus: allocators, fragmentation handling, memory safety, debugging leaks/overflows.
