@@ -122,7 +122,7 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 ## 🤝 Contributing / Contact
 
 - Open an issue in any repo, or ping me on LinkedIn.
-- I’m happy to collaborate on embedded, CUDA, or security‑oriented projects.
+- I’m happy to collaborate on embedded, or security‑oriented projects.
 
 ---
 
