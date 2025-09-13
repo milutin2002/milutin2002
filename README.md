@@ -42,7 +42,6 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)  
-![LLVM](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=white)
 
 **Databases & Messaging**  
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
