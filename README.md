@@ -5,7 +5,7 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 - 🔭 **Now**: polishing C++ multithreading, RTOS on microcontrollers, and safe exploitation basics.
 - 🎯 **Next**: internship‑level readiness, LLVM passes, and AI/ML and neural networks.
 - 🧪 **Lab**: Raspberry Pi security camera + Android push pipeline, Pico + SPI camera(work in progress), face recognition tools.
-- 🐧 **OS**: Arch / Manjaro / Kali • 💬 **Languages**  
+- 🐧 **OS**: Arch / Manjaro / Kali /Ubuntu • 💬 **Languages**  
 
 
 ---
