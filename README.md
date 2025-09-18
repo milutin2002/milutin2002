@@ -88,7 +88,7 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 
 ## 📚 Highlights & Notes
 
-- **Embedded**: RP2040 (Pico/Pico W), DMA, SPI/I²C/UART, camera FIFO handling, dual‑core patterns.
+- **Embedded**: RP2040 (Pico/Pico W), SPI/I²C/UART, camera FIFO handling, dual‑core patterns.
 - **Real‑time**: FreeRTOS tasks, IRQ vs polling trade‑offs, scheduling camera capture + transfer.
 - **GPU**: CUDA basics.
 - **Security**: exploit‑dev fundamentals (ASLR/PIE, ROP), and safe research.
