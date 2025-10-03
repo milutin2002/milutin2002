@@ -2,7 +2,7 @@
 
 I'm a final‑year Electronics & IT student from Niš, focused on **low‑level C/C++**, **embedded systems (RP2040 / Raspberry Pi / FreeRTOS)**, and **security/exploit development**. I build end‑to‑end projects—from firmware and real‑time pipelines to Android/Angular frontends and cloud backends. My goal: to advance in red teaming, AI-driven security research, and exploit development by combining low-level systems expertise with offensive security innovation.
 
-- 🔭 **Now**: polishing C++ multithreading, RTOS on microcontrollers, and safe exploitation basics.
+- 🔭 **Now**: polishing C++ multithreading, RTOS on microcontrollers,mqtt and safe exploitation basics.
 - 🎯 **Next**: internship‑level readiness, LLVM passes, and AI/ML and neural networks.
 - 🧪 **Lab**: Raspberry Pi security camera + Android push pipeline, Pico + SPI camera(work in progress), face recognition tools,mqtt led contol app.
 - 🐧 **OS**: Arch / Manjaro / Kali /Ubuntu •
