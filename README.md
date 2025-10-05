@@ -84,6 +84,23 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 - Focus: allocators, fragmentation handling, memory safety, debugging leaks/overflows.
 - Demonstrates low-level systems skills and practical debugging techniques.
 
+### 5) javiSE — Plumber Connection Platform (Node.js + Angular + NoSQL)
+
+Repo: [javiSE](https://github.com/milutin2002/javiSE)
+
+- Multi-database backend using **Mongodb**
+- Features real-time messaging, plumber–user relationships, and post management.
+- Backend: Node.js (Express + WebSocket); Frontend: Angular.
+- Goal: a social-style platform for connecting users and plumbers with ratings, chats, and notifications.
+
+### 6) mqttLedControl — IoT LED Control via MQTT
+
+Repo: [mqttLedControl](https://github.com/milutin2002/mqttLedControl)
+
+- Connects **Raspberry Pi Pico W** and an **Android app** via **MQTT**.
+- Demonstrates bidirectional control and data exchange between hardware and app.
+- Features LED toggling, message subscriptions, and live communication testing.
+- Focus: lightweight IoT integration and real-time control via MQTT protocol.
 ---
 
 ## 📚 Highlights & Notes
