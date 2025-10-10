@@ -13,6 +13,7 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 ## 🔗 Find me
 
 - GitHub: **[@milutin2002](https://github.com/milutin2002)**
+- LinkedIn: **[@milutin2002](www.linkedin.com/in/milutin-jovanovic-9687ba387)**
 
 
 ---
