@@ -94,17 +94,8 @@ Repo: [javiSE](https://github.com/milutin2002/javiSE)
 - Backend: Node.js (Express + WebSocket); Frontend: Angular.
 - Goal: a social-style platform for connecting users and plumbers with ratings, chats, and notifications.
 
-### 6) mqttLedControl — IoT LED Control via MQTT
 
-Repo: [mqttLedControl](https://github.com/milutin2002/mqttLedControl)
-
-- Connects **Raspberry Pi Pico W** and an **Android app** via **MQTT**.
-- Demonstrates bidirectional control and data exchange between hardware and app.
-- Features LED toggling, message subscriptions, and live communication testing.
-- Focus: lightweight IoT integration and real-time control via MQTT protocol.
----
-
-### 7) ServoControl — Wireless Servo Positioning via MQTT
+### 6) ServoControl — Wireless Servo Positioning via MQTT
 
 Repo: ServoControl [ServoControl](https://github.com/milutin2002/ServoControl.git)
 
@@ -112,6 +103,9 @@ Repo: ServoControl [ServoControl](https://github.com/milutin2002/ServoControl.gi
 - Demonstrates remote angle control from multiple clients (Python script, mobile app, or other MQTT publishers).
 - Includes a Pico-side C program that receives MQTT commands and translates them into precise servo PWM output.
 - Focus: reliable IoT motor control and smooth servo actuation over lightweight MQTT communication.
+---
+
+
 
 ## 📚 Highlights & Notes
 
