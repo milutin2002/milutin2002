@@ -104,9 +104,9 @@ Repo: [mqttLedControl](https://github.com/milutin2002/mqttLedControl)
 - Focus: lightweight IoT integration and real-time control via MQTT protocol.
 ---
 
-7) ServoControl — Wireless Servo Positioning via MQTT
+### 7) ServoControl — Wireless Servo Positioning via MQTT
 
-Repo: ServoControl
+Repo: ServoControl [ServoControl](https://github.com/milutin2002/ServoControl.git)
 
 - Controls a servo motor on a Raspberry Pi Pico W using MQTT messages.
 - Demonstrates remote angle control from multiple clients (Python script, mobile app, or other MQTT publishers).
