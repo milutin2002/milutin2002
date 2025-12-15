@@ -63,21 +63,15 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 - Includes Python scripts, server bits, and Kotlin/Compose client app.
 - Goals: reliable notifications, clean README with architecture diagram, and real hardware demo.
 
-### 2) Obrada Signala (Signal Processing) Project
 
-**Repo**: [ObradaSignalaProjekat](https://github.com/milutin2002/ObradaSignalaProjekat)
-
-- Image processing utilities, reports, and experiments.
-- Academic-style documentation and reproducible runs.
-
-### 3) projekatZI (Crypto & Security Playground)
+### 2) projekatZI (Crypto & Security Playground)
 
 **Repo**: [projekatZI](https://github.com/milutin2002/projekatZI)
 
 - C++ crypto modules (e.g., Tiger/XXTEA variants), utilities, and CLI demos.
 - Great place to showcase secure implementations and unit tests.
 
-### 4) Heap Memory Manager (Custom Allocator)
+### 3) Heap Memory Manager (Custom Allocator)
 
 **Repo** [HeapMemory](https://github.com/milutin2002/HeapMemory.git) 
 
@@ -85,7 +79,7 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 - Focus: allocators, fragmentation handling, memory safety, debugging leaks/overflows.
 - Demonstrates low-level systems skills and practical debugging techniques.
 
-### 5) javiSE — Plumber Connection Platform (Node.js + Angular + NoSQL)
+### 4) javiSE — Plumber Connection Platform (Node.js + Angular + NoSQL)
 
 Repo: [javiSE](https://github.com/milutin2002/javiSE)
 
@@ -95,7 +89,7 @@ Repo: [javiSE](https://github.com/milutin2002/javiSE)
 - Goal: a social-style platform for connecting users and plumbers with ratings, chats, and notifications.
 
 
-### 6) ServoControl — Wireless Servo Positioning via MQTT
+### 5) ServoControl — Wireless Servo Positioning via MQTT
 
 Repo: ServoControl [ServoControl](https://github.com/milutin2002/ServoControl.git)
 
@@ -104,11 +98,7 @@ Repo: ServoControl [ServoControl](https://github.com/milutin2002/ServoControl.gi
 - Includes a Pico-side C program that receives MQTT commands and translates them into precise servo PWM output.
 - Focus: reliable IoT motor control and smooth servo actuation over lightweight MQTT communication.
 
-### 7) mqttLedControl — IoT LED Control via MQTT
-
-
-
-
+### 6) mqttLedControl — IoT LED Control via MQTT
 
 Repo: [mqttLedControl](https://github.com/milutin2002/mqttLedControl)
 
