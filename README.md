@@ -79,6 +79,14 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 - Focus: allocators, fragmentation handling, memory safety, debugging leaks/overflows.
 - Demonstrates low-level systems skills and practical debugging techniques.
 
+### 4) Memory exploit documentation 
+
+**Repo** [MemeoryExploit](https://github.com/milutin2002/MemoryExploit.git)
+
+- Progressively implemented 6 exploit techniques from scratch on 32-bit Linux: stack buffer overflow, ret2libc (DEP bypass), ASLR bypass, stack canary bypass, RELRO bypass, and full ROP chain construction.
+- Built all payloads without exploit frameworks — manual offset calculation, gadget discovery, and GOT/PLT manipulation.
+- Achieved full mitigation coverage: DEP, ASLR, Stack Canary, and RELRO all bypassed and documented.
+
 
 
 
