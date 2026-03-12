@@ -96,7 +96,7 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 - **Embedded**: RP2040 (Pico/Pico W), SPI/I²C/UART, camera FIFO handling, dual‑core patterns.
 - **Real‑time**: FreeRTOS tasks, IRQ vs polling trade‑offs, scheduling camera capture + transfer.
 - **GPU**: CUDA basics.
-- **Security**: exploit‑dev fundamentals (ASLR/PIE, ROP), and safe research.
+- **Security**: exploit‑dev fundamentals (ASLR/PIE, ROP, Format string), and safe research.
 - **Data**: Neo4j (graph relationships), Redis (realtime messaging/notifications), MongoDB (flexible documents).
 - **Mobile/Web**: Android (Kotlin/Compose), Angular frontends, Nestjs backend, Nodejs backend.
 - **Memory**: Heap memory management, custom allocators, debugging leaks/overflows.
