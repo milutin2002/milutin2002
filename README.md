@@ -87,6 +87,13 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 - Built all payloads without exploit frameworks — manual offset calculation, gadget discovery, and GOT/PLT manipulation.
 - Achieved full mitigation coverage: DEP, ASLR, Stack Canary, and RELRO all bypassed and documented.
 
+### 5) ExploitFormatStringVuln
+
+**Repo** [ExploitFormatStringVuln](https://github.com/milutin2002/ExploitFormatStringVuln)
+- Implemented format string exploitation techniques from scratch on Linux, covering stack memory leaking, arbitrary memory reads via %s, and direct parameter access using %N$x.
+- Built all payloads manually without exploit frameworks — using raw format specifiers to expose and traverse stack memory in vulnerable C programs.
+- Demonstrated full read-primitive coverage across all three core format string attack vectors, with documented exploit scripts for each technique.
+
 
 
 
