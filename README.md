@@ -13,7 +13,6 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 ## 🔗 Find me
 
 - GitHub: **[@milutin2002](https://github.com/milutin2002)**
-- LinkedIn: **[@milutin2002](www.linkedin.com/in/milutin-jovanovic-9687ba387)**
 
 
 ---
@@ -46,6 +45,7 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-3949AB?logo=freertos&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?logoColor=white)
 
 
 
