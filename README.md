@@ -94,6 +94,12 @@ I'm a final‑year Electronics & IT student from Niš, focused on **low‑level 
 - Built all payloads manually without exploit frameworks — using raw format specifiers to expose and traverse stack memory in vulnerable C programs.
 - Demonstrated full read-primitive coverage across all three core format string attack vectors, with documented exploit scripts for each technique.
 
+### 1) recognitionSystem
+**Repo** [recognitionSystem](https://github.com/milutin2002/recognitionSystem)
+
+- Implemented a real-time face recognition system in Python using OpenCV and the face_recognition library, capable of detecting and identifying faces through a standard webcam.
+- Built a K-Nearest Neighbors (KNN) classifier from scratch — encoding 20 facial feature vectors per user into .npy files and classifying live detections without relying on pre-built ML frameworks.
+- Demonstrated end-to-end face recognition coverage from data collection to live inference, with Haar Cascade-based detection and name overlay displayed above each recognized face in real time.
 
 
 
